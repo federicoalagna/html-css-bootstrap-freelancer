@@ -45,3 +45,15 @@
 .height_50 {
   height: 50px;
 }
+
+.width_50 {
+  width: auto%;
+}
+
+.grow {
+  flex-grow: 1;
+}
+.font_bold {
+  font-weight: bold;
+  font-size: 30px;
+}
